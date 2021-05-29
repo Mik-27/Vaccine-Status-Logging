@@ -1,0 +1,32 @@
+{
+	"sessions": [
+		{
+			"center_id": 687276,
+			"name": "Navghar UPHC",
+			"address": "Zilla Parishad Marathi Medium School Vasai East",
+			"state_name": "Maharashtra",
+			"district_name": "Palghar",
+			"block_name": "VVCMC",
+			"pincode": 401208,
+			"from": "09:00:00",
+			"to": "18:00:00",
+			"lat": 19,
+			"long": 72,
+			"fee_type": "Free",
+			"session_id": "147a4a05-b235-4e39-b1a8-a64981cc58ac",
+			"date": "29-05-2021",
+			"available_capacity_dose1": 0,
+			"available_capacity_dose2": 300,
+			"available_capacity": 300,
+			"fee": "0",
+			"min_age_limit": 45,
+			"vaccine": "COVISHIELD",
+			"slots": [
+				"09:00AM-11:00AM",
+				"11:00AM-01:00PM",
+				"01:00PM-03:00PM",
+				"03:00PM-06:00PM"
+			]
+		}
+	]
+}
