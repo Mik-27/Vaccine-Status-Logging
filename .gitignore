@@ -1,2 +1,5 @@
 __pycache__
-vvmc_centres.json
+centres.json
+vac.log
+PyEnv
+.env

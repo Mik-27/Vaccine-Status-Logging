@@ -47,10 +47,3 @@ def find_by_district(dist_id, date, block):
             centres["sessions"].append(vac_centres['sessions'][i])
 
     return centres
-
-# vvmc = find_by_district("394", "29-05-2021", "VVCMC")
-# print(vvmc)
-
-# with open("./vvmc_centres.json", "w") as json_file:
-#     print("[INFO] Saving JSON...")
-#     json.dump(vvmc, json_file)
